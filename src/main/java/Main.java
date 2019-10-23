@@ -1,7 +1,7 @@
-import scrape.Scraper;
+import scrape.ScraperV3;
 
 public class Main {
     public static void main (String[] args) {
-        Scraper.Scrape();
+        ScraperV3.Scrape();
     }
 }
